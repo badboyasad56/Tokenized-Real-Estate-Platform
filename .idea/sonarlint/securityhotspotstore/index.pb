@@ -7,3 +7,5 @@ L
 tests/property-token.test.ts,9/9/99569f69e93a70c33ed00b135f07334cad366531
 Y
 )contracts/rental-income-distribution.clar,9/2/9237f0af8b4a71e8221cbbe5b078f8bade74211e
+X
+(tests/rental-income-distribution.test.ts,5/3/53e394db33961336381b715e7e52fcd4c66959ba
